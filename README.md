@@ -6,7 +6,7 @@
  
 •	Python (2.7)
 
-•	IDE (Jupyter)
+•	Jupyter Notebook
 
 •	Numpy (version 1.16.5)
 
